@@ -1,0 +1,8 @@
+[submodule "PiPico_RP2040_Common/lib/knx"]
+	path = PiPico_RP2040_Common/lib/knx
+	url = https://github.com/OpenKNX/knx.git
+	branch = v1
+[submodule "PiPico_RP2040_Common/lib/OGM-Common"]
+	path = PiPico_RP2040_Common/lib/OGM-Common
+	url = https://github.com/OpenKNX/OGM-Common.git
+	branch = v1
