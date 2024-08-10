@@ -1,6 +1,6 @@
 #include <Arduino.h>
 
-#define LED_PIN 25
+#define LED_PIN 6
 
 void setup() {
   // put your setup code here, to run once:
